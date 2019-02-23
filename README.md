@@ -5,13 +5,8 @@ Generate Bill is a software program that calculates the payable amount of bill w
 
 # What I Learnt
 - Windows forms (controls, classes).
-
 -	Conditional Operations.
-
 -	Factory Design Pattern.
-
 -	Events Handling.
-
 -	How to show information to Users.
-
 -	User Alerts Popup.
